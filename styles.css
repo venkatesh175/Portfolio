@@ -62,7 +62,7 @@ section {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(135deg, #4b05f0, #05bef7);
+    background: linear-gradient(135deg, #0d3008, #05f741);
     color: #fff;
     padding: 60px 0;
 }
@@ -113,7 +113,7 @@ section {
 }
 
 .hero-content .cta-btn:hover {
-    background-color: #13df46;
+    background-color: #df7613;
     color: #fff;
 }
 
